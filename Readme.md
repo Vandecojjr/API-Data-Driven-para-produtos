@@ -2,8 +2,8 @@
 
 # sobre
 
-** Este projeto trata se de uma APi Data Driven. Usar o Data Driven no inicia de uma aplicação pode ser um
-uso para ter um inicio rápido e be estruturado antes de usar dominios ricos em ergras de negócios. **
+**Este projeto trata se de uma APi Data Driven. Usar o Data Driven no inicia de uma aplicação pode ser um
+uso para ter um inicio rápido e be estruturado antes de usar dominios ricos em ergras de negócios.**
 
 # Funcionalidades do projeto
 
