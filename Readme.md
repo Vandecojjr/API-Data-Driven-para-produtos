@@ -1,11 +1,11 @@
 <h1 align="center"> Um emxemplo de API Data Driven </h1>
 
-#sobre
+# sobre
 
 ** Este projeto trata se de uma APi Data Driven. Usar o Data Driven no inicia de uma aplicação pode ser um
 uso para ter um inicio rápido e be estruturado antes de usar dominios ricos em ergras de negócios. **
 
-#Funcionalidades do projeto
+# Funcionalidades do projeto
 
 - `Funcionalidade 1`: Cadastro de produto
 - `Funcionalidade 2`: Cadastro de categoria
